@@ -4,7 +4,7 @@
 
 Guofeng Zhang, Angtian Wang†, Jacob Zhiyuan Fang, Liming Jiang, Haotian Yang, Bo Liu, Yiding Yang, Guang Chen, Longyin Wen, Alan Yuille, Chongyang Ma
 
-\† Project Lead
+† Project Lead
 <br>
 
 <a href='https://arxiv.org/abs/2510.15104'><img src='https://img.shields.io/badge/ArXiv-2510.15104-red'></a>
